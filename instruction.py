@@ -1,6 +1,5 @@
 import time
 import pprint
-import alu
 from flags import Flags
 
 opt = dict((i,0) for i in range(0, 256))
