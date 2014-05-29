@@ -4,3 +4,12 @@ This is not complete. Many instructions are not implemented. There is no keyboar
 
 The answer was 'not quite'. All the bit twiddling is quite expensive.
 
+You will need two ROM images:
+
+   6128L.rom
+   6128U-basic.rom
+
+You can get these from http://www.cpcwiki.eu/index.php/ROM_List
+   First is the Lower ROM for "CPC 6128 OS English"
+   Second is the BASIC ROM for "CPC 6128 Basic English"
+
