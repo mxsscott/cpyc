@@ -1,5 +1,4 @@
 import time
-import pprint
 from flags import Flags
 
 opt = dict((i,0) for i in range(0, 256))
@@ -1230,7 +1229,6 @@ class Cpu(object):
             if x == 0:
                 screen.blit()
                 x = 10000
-                pprint.pprint(opt)
             #self.dump(self.mem)
             #print '{:04X}'.format(self.pc),
 
