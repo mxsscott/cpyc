@@ -1,0 +1,6 @@
+Amstrad CPC (6128) emulator, written in Python.
+
+This is not complete. Many instructions are not implemented. There is no keyboard or disc drive handling. It was written as a test / proof-of-concept to see if an emulator could be written in Python and be performant enough, and to use data types like ByteArray and the pygame library.
+
+The answer was 'not quite'. All the bit twiddling is quite expensive.
+
